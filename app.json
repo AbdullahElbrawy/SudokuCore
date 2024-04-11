@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "SudokuCore",
+    "slug": "SudokuCore",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.anonymous.SudokuCore"
+    }
+  },
+  "name": "SudokuCore"
+}
